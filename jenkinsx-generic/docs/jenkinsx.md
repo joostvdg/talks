@@ -22,7 +22,7 @@
 
 
 <!-- .slide: class="center light" -->
-<!-- .slide: data-background="../img/jx-serverless-arch.png" data-background-size="contain" data-background-color="#FFF" -->
+<!-- .slide: data-background="img/jx-serverless-arch.png" data-background-size="contain" data-background-color="#FFF" -->
 
 
 <!-- .slide: class="dark center" -->
