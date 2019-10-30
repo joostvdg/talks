@@ -17,12 +17,3 @@
 
 ## DEMO!
 
-
-<!-- .slide: class="dark" -->
-<div class="label">Quickstart</div>
-
-## How Does It Work
-
-
-<!-- .slide: class="center light" -->
-<!-- .slide: data-background="../img/jx-arch.png" data-background-size="contain" data-background-color="#FFF" -->
