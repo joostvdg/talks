@@ -1,4 +1,4 @@
-<!-- .slide: class="dark center" -->
+<!-- .slide: class="center" -->
 # Who Am I
 
 

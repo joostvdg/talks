@@ -1,5 +1,4 @@
-<!-- .slide: class="dark center" -->
-
+<!-- .slide: class="center" -->
 # Jenkins X
 
 

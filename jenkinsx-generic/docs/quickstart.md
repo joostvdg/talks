@@ -1,5 +1,4 @@
-<!-- .slide: class="dark center" -->
-
+<!-- .slide: class="center" -->
 # JX Quickstart
 
 
@@ -25,9 +24,5 @@
 ## How Does It Work
 
 
-<!-- .slide: class="light" -->
-<p style="display:inline-block"><img src="img/jx-arch.png" ></p>
-
-
-<!-- .slide: class="light" -->
-<p style="display:inline-block"><img src="img/overview.png" ></p>
+<!-- .slide: class="center light" -->
+<!-- .slide: data-background="../img/jx-arch.png" data-background-size="contain" data-background-color="#FFF" -->

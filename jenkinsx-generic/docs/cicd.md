@@ -1,42 +1,46 @@
-<!-- .slide: class="dark center" -->
-
+<!-- .slide: class="center" -->
 # CI/CD
 
 
-<!-- .slide: class="dark center" -->
+<!-- .slide: class="dark" -->
 <div class="label">CI/CD</div>
 
 > From inception till it is OUT of Production
 
-* People<!-- .element: class="fragment" -->
-* Process<!-- .element: class="fragment" -->
-* Technology<!-- .element: class="fragment" -->
+* People
+* Process
+* Technology
 
 
-<!-- .slide: class="dark center" -->
-<div class="label">CI/CD</div>
+<!-- .slide: class="dark" -->
+<div class="label light">CI/CD</div>
 
 ## Business Expectations
 
-* low-cost<!-- .element: class="fragment" -->
-* consistent<!-- .element: class="fragment" -->
-* low-overhead<!-- .element: class="fragment" -->
-* easy to scale<!-- .element: class="fragment" -->
-* easy to replace people<!-- .element: class="fragment" -->
+* low-cost
+* consistent
+* low-overhead
+* easy to scale
+* easy to replace people
 
 
-<!-- .slide: class="dark center" -->
+<!-- .slide: class="dark" -->
 <div class="label">CI/CD</div>
 
 ## Developer Expectations
 
-* cloud-agnostic<!-- .element: class="fragment" -->
-* scale to Zero<!-- .element: class="fragment" -->
-* fast<!-- .element: class="fragment" -->
-* easy<!-- .element: class="fragment" -->
+* cloud-agnostic
+* scale to Zero
+* fast
+* easy
+* reactive
 
 
-<!-- .slide: class="dark center" -->
+<!-- .slide: class="center light" -->
+<!-- .slide: data-background="../img/gitops-model.png" data-background-size="contain" data-background-color="#FFF" -->
+
+
+<!-- .slide: class="dark" -->
 <div class="label">CI/CD</div>
 
 ## How Does Jenkins X Help
@@ -47,3 +51,4 @@
 * GitOps<!-- .element: class="fragment" -->
 * use (defacto) standard tools<!-- .element: class="fragment" -->
 * opinions<!-- .element: class="fragment" -->
+* build packs<!-- .element: class="fragment" -->

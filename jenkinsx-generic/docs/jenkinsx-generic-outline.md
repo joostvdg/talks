@@ -1,5 +1,4 @@
-<!-- .slide: class="center dark" -->
-
+<!-- .slide: class="center" -->
 # Developing for/on Kubernetes
 
 

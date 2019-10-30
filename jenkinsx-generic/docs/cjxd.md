@@ -1,5 +1,4 @@
-<!-- .slide: class="dark center" -->
-
+<!-- .slide: class="center" -->
 # CloudBees Jenkins X Distribution
 
 
