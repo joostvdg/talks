@@ -37,7 +37,7 @@
 
 
 <!-- .slide: class="center light" -->
-<!-- .slide: data-background="../img/gitops-model.png" data-background-size="contain" data-background-color="#FFF" -->
+<!-- .slide: data-background="img/gitops-model.png" data-background-size="contain" data-background-color="#FFF" -->
 
 
 <!-- .slide: class="dark" -->
