@@ -33,7 +33,7 @@
 * scale to Zero
 * fast
 * easy
-* reactive
+* IDE support
 
 
 <!-- .slide: class="center light" -->
@@ -46,7 +46,6 @@
 ## How Does Jenkins X Help
 
 * build on Kubernetes<!-- .element: class="fragment" -->
-* build on Tekton<!-- .element: class="fragment" -->
 * pipeline as code<!-- .element: class="fragment" -->
 * GitOps<!-- .element: class="fragment" -->
 * use (defacto) standard tools<!-- .element: class="fragment" -->
