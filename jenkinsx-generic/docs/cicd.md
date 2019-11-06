@@ -1,9 +1,9 @@
 <!-- .slide: class="center" -->
-# CI/CD
+# CI/CD On Kubernetes
 
 
 <!-- .slide: class="dark" -->
-<div class="label">CI/CD</div>
+<div class="label">CI/CD K8S</div>
 
 > From inception till it is OUT of Production
 
@@ -13,7 +13,7 @@
 
 
 <!-- .slide: class="dark" -->
-<div class="label light">CI/CD</div>
+<div class="label light">CI/CD K8S</div>
 
 ## Business Expectations
 
@@ -25,7 +25,7 @@
 
 
 <!-- .slide: class="dark" -->
-<div class="label">CI/CD</div>
+<div class="label">CI/CD K8S</div>
 
 ## Developer Expectations
 
@@ -41,7 +41,7 @@
 
 
 <!-- .slide: class="dark" -->
-<div class="label">CI/CD</div>
+<div class="label">CI/CD K8S</div>
 
 ## How Does Jenkins X Help
 
