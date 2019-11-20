@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="author" content="Joost van der Griendt">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<title>Kubernetes-first Continuous Delivery for Developers</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/reset.css">
+		<!-- <link rel="stylesheet" href="css/theme/joostvdg.css"> -->
+		<link rel="stylesheet" href="css/theme/x19.css" id="theme">
+
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+	</head>
+	
+	<body>
+		<div class="reveal">
+			<header style="position: absolute;top: 50px; left: 100px; z-index:500; font-size:100px;background-color: rgba(0,0,0,0.5)"></header>
+			<div class="slides">
+				<section id="cover"
+                    data-markdown="cover.md"
+                    data-separator="^\n\n\n"
+                    data-separator-vertical="^\n\n"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                    data-background="linear-gradient(to bottom right, rgba(25,151,181,0.9), rgba(87,185,72,0.9)), url(img/daniele-levis-pelusi-Pp9qkEV_xPk-unsplash.jpg) center / cover">
+				</section>
+				<section id="about-me"
+                    data-markdown="docs/about-me.md"
+                    data-separator="^\n\n\n"
+                    data-separator-vertical="^\n\n"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                    data-background="linear-gradient(to bottom right, rgba(25,151,181,0.9), rgba(87,185,72,0.9)), url(img/friso-baaij-1321394-unsplash.jpg) center / cover">
+				</section>
+				<section id="this-talk"
+                    data-markdown="docs/outline.md"
+                    data-separator="^\n\n\n"
+                    data-separator-vertical="^\n\n"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                    data-background="linear-gradient(to bottom right, rgba(25,151,181,0.9), rgba(87,185,72,0.9)), url(img/spacex-549328-unsplash.jpg) center / cover">
+				</section>
+				<section id="jenkinsx"
+                    data-markdown="docs/jenkinsx.md"
+                    data-separator="^\n\n\n"
+                    data-separator-vertical="^\n\n"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                    data-background="linear-gradient(to bottom right, rgba(25,151,181,0.9), rgba(87,185,72,0.9)), url(img/jenkinsx-icon-color.png) center / cover">
+				</section>
+				<section id="jx-boot"
+                    data-markdown="docs/jx-boot.md"
+                    data-separator="^\n\n\n"
+                    data-separator-vertical="^\n\n"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                    data-background="linear-gradient(to bottom right, rgba(25,151,181,0.9), rgba(87,185,72,0.9)), url(img/lenny-kuhne-jHZ70nRk7Ns-unsplash.jpg) center / cover">
+				</section>
+				<section id="cjxd"
+                    data-markdown="docs/cjxd.md"
+                    data-separator="^\n\n\n"
+                    data-separator-vertical="^\n\n"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                    data-background="linear-gradient(to bottom right, rgba(25,151,181,0.9), rgba(87,185,72,0.9)), url(img/products/Infinity.png) center">
+				</section>
+				<section id="jx-environments"
+                    data-markdown="docs/environments.md"
+                    data-separator="^\n\n\n"
+                    data-separator-vertical="^\n\n"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                    data-background="linear-gradient(to bottom right, rgba(25,151,181,0.9), rgba(87,185,72,0.9)), url(img/imgix-pgdaAwf6IJg-unsplash.jpg) center / cover">
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+		</script>
+
+	</body>
+</html>
