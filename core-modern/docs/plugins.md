@@ -5,7 +5,17 @@
 <!-- .slide: class="dark center" -->
 <div class="label">Plugins</div>
 
-## How
+## Manage
+
+* Curated, verified Jenkins plugins
+* Support for Offline environments
+* Support for custom plugins
+
+
+<!-- .slide: class="dark center" -->
+<div class="label">Plugins</div>
+
+## Install
 
 * CLI
 * JCASC
