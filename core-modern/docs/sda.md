@@ -22,10 +22,6 @@
 <!-- .slide: data-background="../img/ci-pepgotesting-com.png" data-background-size="contain" data-background-color="#FFF" -->
 
 
-<!-- .slide: class="center light" -->
-<!-- .slide: data-background="../img/models/ci.png" data-background-size="contain" data-background-color="#FFF" -->
-
-
 ## Pipelines
 
 

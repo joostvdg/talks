@@ -13,7 +13,6 @@
     * milestone
     * checkpoint
 * pipeline templates
-* ?
 
 
 <!-- .slide: class="center light" -->
@@ -21,8 +20,12 @@
 
 
 <!-- .slide: class="center light" -->
-<!-- .slide: data-background="../img/core/pipeline-matrix.png" data-background-size="contain" data-background-color="#FFF" -->
+<!-- .slide: data-background="../img/core/pipeline-parallel-sequential.png" data-background-size="contain" data-background-color="#FFF" -->
 
 
 <!-- .slide: class="center light" -->
-<!-- .slide: data-background="../img/core/pipeline-parallel-sequential.png" data-background-size="contain" data-background-color="#FFF" -->
+<!-- .slide: data-background="../img/multibranch-pipeline.png" data-background-size="contain" data-background-color="#FFF" -->
+
+
+<!-- .slide: class="center light" -->
+<!-- .slide: data-background="../img/core/pipeline-matrix.png" data-background-size="contain" data-background-color="#FFF" -->

@@ -7,7 +7,9 @@
 
 ## What It Is
 
-* ?
+* Allows To Send Events
+* Allows To Trigger On Events
+* Local... or external!
 
 
 <!-- .slide: class="center light" -->
