@@ -22,11 +22,17 @@
 <!-- .slide: data-background="../img/ci-pepgotesting-com.png" data-background-size="contain" data-background-color="#FFF" -->
 
 
+## SDA Architecture
+
+
+<!-- .slide: class="center light" -->
+<!-- .slide: data-background="../img/core/k8s-agent-provisioning.svg" data-background-size="contain" data-background-color="#FFF" -->
+
 ## Pipelines
 
 
 <!-- .slide: class="center light" -->
-<!-- .slide: data-background="../img/models/pipeline-abstract-1.png" data-background-size="contain" data-background-color="#FFF" -->
+<!-- .slide: data-background="../img/gitops-model.png" data-background-size="contain" data-background-color="#FFF" -->
 
 
 <!-- .slide: class="center light" -->
