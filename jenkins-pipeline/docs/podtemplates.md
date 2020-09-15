@@ -51,11 +51,33 @@
 * Master -> `PodTemplates`
 * YAML definitions in a Shared Library
 * PodTemplate in your `Jenkinsfile`
+* CasC Bundles
 
 
 <!-- .slide: class="center light" -->
 <!-- .slide: data-background="../img/podtemplates-where.png" data-background-size="contain" data-background-color="#FFF" -->
 
+<!-- .slide: class="dark" -->
+<div class="label">PodTemplates & Core</div>
+
+## CasC Bundle
+
+```yaml
+jenkins.yaml: |
+  jenkins:
+  kube:
+    podTemplatesConfiguration:
+      templates:
+      - containers:
+        - command: "cat"
+          image: "maven:3-jdk-11-slim"
+          name: "maven"
+          ttyEnabled: true
+          workingDir: "/home/jenkins/agent"
+        label: "mavenjdk11"
+        name: "mavenjdk11"
+        nodeUsageMode: "NORMAL"
+```
 
 <!-- .slide: class="dark" -->
 <div class="label">PodTemplates & Core</div>
