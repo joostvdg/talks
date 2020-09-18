@@ -57,6 +57,7 @@
 <!-- .slide: class="center light" -->
 <!-- .slide: data-background="../img/podtemplates-where.png" data-background-size="contain" data-background-color="#FFF" -->
 
+
 <!-- .slide: class="dark" -->
 <div class="label">PodTemplates & Core</div>
 
@@ -78,6 +79,7 @@ jenkins.yaml: |
         name: "mavenjdk11"
         nodeUsageMode: "NORMAL"
 ```
+
 
 <!-- .slide: class="dark" -->
 <div class="label">PodTemplates & Core</div>
